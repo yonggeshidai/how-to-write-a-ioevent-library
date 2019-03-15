@@ -32,6 +32,8 @@
 当然，一个项目首先要有个炫酷的名字，我们先为这个库起个名，由于我个人比较喜欢漫威，所以就叫 `Marvel` 吧，希望漫威不要告我。
 
 所以我们定义这三个接口为：
-* marvel_add()
-* marvel_del()
-* marvel_dispatch()
+```c
+1. marvel_add()
+2. marvel_del()
+3. marvel_dispatch()
+```
